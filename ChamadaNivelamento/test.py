@@ -7,6 +7,7 @@ import numpy as np
 
         # self.play(Create(s))
         
+        
 class teste(Scene):
     def construct(self):
         ax = Axes(x_range=[0,6.3]).scale(0.7)
